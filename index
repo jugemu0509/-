@@ -1,0 +1,24 @@
+<h1>草笑興業<h1>
+<h2>公式ホームページだよ～　見てくれてありがとね<h2>
+<h2>予定表<h2>
+<table border="1">
+  <tr>
+    <th>月</th>
+    <th>内容</th>
+    <th>あらすじ</th>
+   <tr>
+     <td>5月</td>
+     <td>コント</td>
+     <td>考え中です(>_<)</td>
+   </tr>
+ </table>
+<h3>後々サイトの内容増やします<h3>
+  <body bgcolor="fffacd" text="000000" link="リンク文字色 " alink="00bfff" vlink="訪問済みリンク文字色"> 
+  
+  table {
+  border-collapse: collapse; color: ; /* 全体の文字色 */
+  background-color: #f0f2f7; /* 全体の背景色 */
+}
+td {
+  padding: 5px 15px; /* 上下 左右 */
+}
